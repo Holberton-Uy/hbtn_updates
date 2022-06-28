@@ -1,4 +1,4 @@
-# 0x15 - JavaScript
+# 0x15 - JavaScript DOM Manipulation
 
 ## Resources
 ### Read or watch:
@@ -43,7 +43,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Tasks
 
-### 0. No JQuery
+### 0. Color me
 - Level: 0
 - Manual review
 
