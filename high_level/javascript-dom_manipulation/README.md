@@ -1,4 +1,4 @@
-# 0x15 - JavaScript DOM Manipulation
+# JavaScript DOM Manipulation
 
 ## Resources
 ### Read or watch:
@@ -53,7 +53,7 @@ Write a JavaScript script that updates the text color of the `header` element to
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 0-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 0-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -69,13 +69,13 @@ javiercito@ubuntu:~/0x15$ cat 0-main.html
     <script type="text/javascript" src="0-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `0-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -87,7 +87,7 @@ Write a JavaScript script that updates the text color of the `header` element to
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 1-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 1-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -104,13 +104,13 @@ javiercito@ubuntu:~/0x15$ cat 1-main.html
     <script type="text/javascript" src="1-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `1-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -122,7 +122,7 @@ Write a JavaScript script that adds the class `red` to the `header` element when
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 2-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 2-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -144,13 +144,13 @@ javiercito@ubuntu:~/0x15$ cat 2-main.html
     <script type="text/javascript" src="2-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$
+javiercito@ubuntu:~/javascript-dom_manipulation$
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `2-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -165,7 +165,7 @@ If the current class is `red`, when the user click on id `toggle_header` element
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 3-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 3-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -190,13 +190,13 @@ javiercito@ubuntu:~/0x15$ cat 3-main.html
     <script type="text/javascript" src="3-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `4-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -211,7 +211,7 @@ The new element must be added to the `ul` element with class `my_list`
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 4-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 4-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -233,13 +233,13 @@ javiercito@ubuntu:~/0x15$ cat 4-main.html
     <script type="text/javascript" src="4-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `4-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -251,7 +251,7 @@ Write a JavaScript script that updates the text of the `header` element to `New 
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 5-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 5-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -270,13 +270,13 @@ javiercito@ubuntu:~/0x15$ cat 5-main.html
     <script type="text/javascript" src="5-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `5-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -291,7 +291,7 @@ Write a JavaScript script that fetches the character `name` from this URL: `http
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 6-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 6-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -310,13 +310,13 @@ javiercito@ubuntu:~/0x15$ cat 6-main.html
     <script type="text/javascript" src="6-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `6-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -332,7 +332,7 @@ Write a JavaScript script that fetches and lists the `title` for all movies by u
 Please test with this HTML file in your browser:
 
 ```
-javiercito@ubuntu:~/0x15$ cat 7-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 7-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -352,13 +352,13 @@ javiercito@ubuntu:~/0x15$ cat 7-main.html
     <script type="text/javascript" src="7-script.js"></script>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 #### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `7-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -375,7 +375,7 @@ Write a JavaScript script that fetches from `https://fourtonfish.com/hellosalut/
 Please test with this HTML file in your browser:
 
 ```
-javiercito@ubuntu:~/0x15$ cat 8-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 8-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -394,12 +394,12 @@ javiercito@ubuntu:~/0x15$ cat 8-main.html
     </footer>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `8-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -418,7 +418,7 @@ You script must work when it imported from the `head` tag
 Please test with this HTML file in your browser:
 
 ```
-javiercito@ubuntu:~/0x15$ cat 100-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 100-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -442,13 +442,13 @@ javiercito@ubuntu:~/0x15$ cat 100-main.html
     </footer>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `100-script.js`
 - Code language: `JavaScript` (project based)
 
@@ -466,7 +466,7 @@ Write a JavaScript script that fetches and prints how to say “Hello” dependi
 
 Please test with this HTML file in your browser:
 ```
-javiercito@ubuntu:~/0x15$ cat 101-main.html 
+javiercito@ubuntu:~/javascript-dom_manipulation$ cat 101-main.html 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -494,12 +494,12 @@ javiercito@ubuntu:~/0x15$ cat 101-main.html
     </footer>
   </body>
 </html>
-javiercito@ubuntu:~/0x15$ 
+javiercito@ubuntu:~/javascript-dom_manipulation$ 
 ```
 
 ### Repo:
 
 - GitHub repository: `holbertonschool-higher_level_programming`
-- Directory: `0x15-javascript-web_jquery`
+- Directory: `javascript-dom_manipulation`
 - File: `101-script.js`
 - Code language: `JavaScript` (project based)
