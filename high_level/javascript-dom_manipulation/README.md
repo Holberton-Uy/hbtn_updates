@@ -197,7 +197,7 @@ javiercito@ubuntu:~/javascript-dom_manipulation$
 
 - GitHub repository: `holbertonschool-higher_level_programming`
 - Directory: `javascript-dom_manipulation`
-- File: `4-script.js`
+- File: `3-script.js`
 - Code language: `JavaScript` (project based)
 
 ### 4. List of elements
@@ -363,7 +363,7 @@ javiercito@ubuntu:~/javascript-dom_manipulation$
 - Code language: `JavaScript` (project based)
 
 
-## 9. Say Hello!
+## 8. Say Hello!
 - Level: 0
 - Manual review
 
@@ -403,7 +403,7 @@ Repo:
 - File: `8-script.js`
 - Code language: `JavaScript` (project based)
 
-## 11. List, add, remove
+## 9. List, add, remove
 - Level: 1
 - Manual review
 
